@@ -1,0 +1,15 @@
+describe('test', function()
+  it('should pass', function()
+    assert(true)
+  end)
+end)
+
+describe('test2', function()
+  it('should fail', function()
+    assert(false)
+  end)
+end)
+
+describe('should handle errors in describe()', function()
+  error('test3')
+end)

@@ -92,3 +92,7 @@ lua\entities\widget_axis.lua
 lua\entities\widget_base.lua
 lua\entities\widget_bones.lua
 lua\entities\widget_disc.lua
+lua\test\main.lua
+lua\test\assert.lua
+lua\test\run.lua
+lua\test\suite.lua
